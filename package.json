@@ -1,0 +1,8 @@
+{
+  "name": "Hockey Scrap to API",
+  "description": "Tool for scraping Hockey website to turn data into a useful API",
+  "private": true,
+  "dependencies": {
+    "Scrap": "~1.0.1"
+  }
+}
