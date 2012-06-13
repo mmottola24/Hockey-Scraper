@@ -59,7 +59,7 @@ function parseOptions() {
                 
                 switch (option) {
                     case 'l' :
-                        options['leage_id'] = value;
+                        options['league_id'] = value;
                         break;
                     case 't' :
                         options['team_id'] = value;

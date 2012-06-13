@@ -1,12 +1,14 @@
 {
   "name": "BHI-API",
-  "version" : "0.0.1",
+  "version": "0.0.1",
   "description": "Tool for scraping Hockey website to turn data into a useful API",
-  "author" : "Michael Mottola <mikemottola@gmail.com>",
+  "author": "Michael Mottola <mikemottola@gmail.com>",
   "private": true,
   "dependencies": {
+    "Scrap": "~1.0.1",
+    "jsdom": "~0.2.14"
   },
-  "bin" : {
-    "bhi-api" : "./bin/bhi-api.js"
+  "bin": {
+    "bhi-api": "./bin/bhi-api.js"
   }
 }
