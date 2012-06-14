@@ -64,6 +64,9 @@ function parseOptions() {
                     case 't' :
                         options['team_id'] = value;
                         break;
+                    case 's' :
+                        options['schedule_id'] = value;
+                        break;
                 }
             }          
         }

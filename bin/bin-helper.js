@@ -9,9 +9,11 @@ BinHelper =  {
         "  create, c, --create         Series of create functions",
         "  arguments:",
         "    schedule                  Generates schedule.",
+        "    standings                 Generates standings",
         "    options:",
         "      -l, --league            League Id",
         "      -t, --team              Team Id",
+        "      -s, --schedule          Schedule Id",
         "",
         "  version, -v, --version      Displays the current version number",
         "  help, -h, --help            Displays the help your looking at"
